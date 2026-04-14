@@ -141,7 +141,7 @@ Genera observaciones simples sobre el comportamiento de los datos.
 
 El uso completo de la librería se muestra en el siguiente notebook:
 
-**[Open in Colab](REEMPLAZAR_LINK_AQUI)**
+**[Open in Colab](https://colab.research.google.com/github/DavidVarH/tabulens/blob/main/notebooks/tabulens_tutorial.ipynb)**
 
 El notebook:
 
