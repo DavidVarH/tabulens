@@ -7,7 +7,7 @@
 ## Instalación
 
 ```bash
-pip install tabulens
+pip install tabulens-DavidVarH
 ```
 
 ---
