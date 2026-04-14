@@ -3,7 +3,7 @@ requires = ["setuptools>=61.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "tabulens-DavidVarH"
+name = "tabulens-davidvarh"
 version = "0.1.0"
 description = "A Python library for profiling, validating, cleaning, filtering, optimizing, and extracting insights from pandas DataFrames."
 readme = "README.md"
