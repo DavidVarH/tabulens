@@ -151,6 +151,22 @@ El notebook:
 
 ---
 
+## Docker
+
+El proyecto también puede ejecutarse en un contenedor Docker para garantizar reproducibilidad.
+
+### Construir la imagen
+
+```bash
+docker build -t tabulens-davidvarh .
+```
+
+### Ejecutar los tests
+
+```bash
+docker run --rm tabulens-davidvarh
+```
+
 ## Tests
 
 Para ejecutar los tests:
